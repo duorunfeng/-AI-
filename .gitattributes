@@ -1,2 +1,4 @@
 gfpgan/weights/alignment_WFLW_4HG.pth filter=lfs diff=lfs merge=lfs -text
 gfpgan/weights/detection_Resnet50_Final.pth filter=lfs diff=lfs merge=lfs -text
+talker/gfpgan/weights/alignment_WFLW_4HG.pth filter=lfs diff=lfs merge=lfs -text
+talker/gfpgan/weights/detection_Resnet50_Final.pth filter=lfs diff=lfs merge=lfs -text
