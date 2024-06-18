@@ -1,0 +1,42 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    margin: 0;
+    background: #f4f4f4;
+}
+
+header {
+    background: #007bff;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+main {
+    margin-top: 20px;
+    text-align: center;
+}
+
+input[type="file"] {
+    margin-top: 20px;
+}
+
+button {
+    background: #0084ff;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+#preview img {
+    max-width: 100%;
+    height: auto;
+}

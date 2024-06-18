@@ -1,0 +1,6 @@
+[submodule "SadTalker"]
+	path = SadTalker
+	url = https://github.com/OpenTalker/SadTalker.git
+[submodule "dreamtalk"]
+	path = dreamtalk
+	url = https://github.com/ali-vilab/dreamtalk.git

@@ -1,0 +1,22 @@
+<!-- photo-upload.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload Photo</title>
+    <link rel="stylesheet" href="/static/css/photo-upload.css">
+</head>
+<body>
+    <header>
+        <h1>Upload Your Photo</h1>
+    </header>
+    <main>
+        <form id="uploadForm" method="post" enctype="multipart/form-data">
+            <input type="file" id="photo-input" name="photo" accept="image/*">
+            <button type="button" onclick="uploadPhoto()">Upload Photo</button>
+        </form>
+        <div id="preview"></div>
+    </main>
+    <script src="/static/js/photo-upload.js"></script>
+</body>
+</html>

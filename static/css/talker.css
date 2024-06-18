@@ -1,0 +1,68 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* 使用视口高度确保覆盖整个屏幕 */
+    background: radial-gradient(circle, #ffffff, #007bff); /* 从中心的白色向外渐变到蓝色 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal {
+    background-color: #ffffff; /* 为模态窗口设置白色背景 */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 80%;
+    max-width: 500px;
+}
+
+h2 {
+    color: #004085; /* 标题颜色 */
+    margin-bottom: 20px;
+}
+
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+    transition: background-color 0.3s ease;
+    background-color: #007bff; /* 按钮的背景颜色 */
+    color: white;
+}
+
+.button:hover {
+    background-color: #0056b3; /* 鼠标悬停时按钮的背景颜色 */
+}
+
+#notification {
+    display: none; /* 默认不显示，由JavaScript控制 */
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #d1ecf1;
+    color: #0c5460;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    z-index: 1500;
+    width: 80%;
+    max-width: 400px;
+}
+
+.notification.info {
+    background-color: #cce5ff;
+    color: #004085;
+}
+
+.notification.error {
+    background-color: #f8d7da;
+    color: #721c24;
+}

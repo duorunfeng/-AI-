@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select Digital Human Engine</title>
+    <link rel="stylesheet" href="/static/css/talker.css">
+</head>
+<body>
+    <div class="modal" id="engineSelectorModal">
+        <h2>Please select a digital human engine</h2>
+        <button class="modal-button" onclick="selectEngine('sadtalker')">sadtalker</button>
+        <button class="modal-button" onclick="selectEngine('dreamtalker')">dreamtalker</button>
+        <button class="modal-button" onclick="selectEngine('voice')">voice</button>
+    </div>
+
+    <div id="notification" style="display: none; position: fixed; top: 20%; left: 50%; transform: translate(-50%, -50%); background-color: lightblue; padding: 20px; border-radius: 10px; text-align: center;"></div>
+
+
+    <script src="/static/js/talker.js"></script>
+</body>
+</html>

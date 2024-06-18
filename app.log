@@ -1,0 +1,524 @@
+root - ERROR - 处理音频文件时发生错误: Failed to load audio: ffmpeg version 6.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2023 the FFmpeg developers
+
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+
+  libavutil      58. 29.100 / 58. 29.100
+
+  libavcodec     60. 31.102 / 60. 31.102
+
+  libavformat    60. 16.100 / 60. 16.100
+
+  libavdevice    60.  3.100 / 60.  3.100
+
+  libavfilter     9. 12.100 /  9. 12.100
+
+  libswscale      7.  5.100 /  7.  5.100
+
+  libswresample   4. 12.100 /  4. 12.100
+
+  libpostproc    57.  3.100 / 57.  3.100
+
+[in#0 @ 000001c22e1f0f80] Error opening input: No such file or directory
+
+Error opening input file uploads\uploads\audio.wav.
+
+Error opening input files: No such file or directory
+
+
+root - ERROR - 处理音频文件时发生错误: Failed to load audio: ffmpeg version 6.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2023 the FFmpeg developers
+
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+
+  libavutil      58. 29.100 / 58. 29.100
+
+  libavcodec     60. 31.102 / 60. 31.102
+
+  libavformat    60. 16.100 / 60. 16.100
+
+  libavdevice    60.  3.100 / 60.  3.100
+
+  libavfilter     9. 12.100 /  9. 12.100
+
+  libswscale      7.  5.100 /  7.  5.100
+
+  libswresample   4. 12.100 /  4. 12.100
+
+  libpostproc    57.  3.100 / 57.  3.100
+
+[in#0 @ 000001db78d11000] Error opening input: No such file or directory
+
+Error opening input file uploads\uploads\audio.wav.
+
+Error opening input files: No such file or directory
+
+
+root - ERROR - 处理音频文件时发生错误: Failed to load audio: ffmpeg version 6.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2023 the FFmpeg developers
+
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+
+  libavutil      58. 29.100 / 58. 29.100
+
+  libavcodec     60. 31.102 / 60. 31.102
+
+  libavformat    60. 16.100 / 60. 16.100
+
+  libavdevice    60.  3.100 / 60.  3.100
+
+  libavfilter     9. 12.100 /  9. 12.100
+
+  libswscale      7.  5.100 /  7.  5.100
+
+  libswresample   4. 12.100 /  4. 12.100
+
+  libpostproc    57.  3.100 / 57.  3.100
+
+[in#0 @ 000001bbdf291000] Error opening input: No such file or directory
+
+Error opening input file uploads\uploads\audio.wav.
+
+Error opening input files: No such file or directory
+
+
+root - ERROR - 处理音频文件时发生错误: Failed to load audio: ffmpeg version 6.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2023 the FFmpeg developers
+
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+
+  libavutil      58. 29.100 / 58. 29.100
+
+  libavcodec     60. 31.102 / 60. 31.102
+
+  libavformat    60. 16.100 / 60. 16.100
+
+  libavdevice    60.  3.100 / 60.  3.100
+
+  libavfilter     9. 12.100 /  9. 12.100
+
+  libswscale      7.  5.100 /  7.  5.100
+
+  libswresample   4. 12.100 /  4. 12.100
+
+  libpostproc    57.  3.100 / 57.  3.100
+
+[in#0 @ 0000024007a90f80] Error opening input: No such file or directory
+
+Error opening input file uploads\uploads\audio.wav.
+
+Error opening input files: No such file or directory
+
+
+root - ERROR - 处理音频文件时发生错误: Failed to load audio: ffmpeg version 6.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2023 the FFmpeg developers
+
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+
+  libavutil      58. 29.100 / 58. 29.100
+
+  libavcodec     60. 31.102 / 60. 31.102
+
+  libavformat    60. 16.100 / 60. 16.100
+
+  libavdevice    60.  3.100 / 60.  3.100
+
+  libavfilter     9. 12.100 /  9. 12.100
+
+  libswscale      7.  5.100 /  7.  5.100
+
+  libswresample   4. 12.100 /  4. 12.100
+
+  libpostproc    57.  3.100 / 57.  3.100
+
+[in#0 @ 000001c815ea0f80] Error opening input: No such file or directory
+
+Error opening input file uploads\uploads\audio.wav.
+
+Error opening input files: No such file or directory
+
+
+root - ERROR - 处理音频文件时发生错误: Failed to load audio: ffmpeg version 6.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2023 the FFmpeg developers
+
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+
+  libavutil      58. 29.100 / 58. 29.100
+
+  libavcodec     60. 31.102 / 60. 31.102
+
+  libavformat    60. 16.100 / 60. 16.100
+
+  libavdevice    60.  3.100 / 60.  3.100
+
+  libavfilter     9. 12.100 /  9. 12.100
+
+  libswscale      7.  5.100 /  7.  5.100
+
+  libswresample   4. 12.100 /  4. 12.100
+
+  libpostproc    57.  3.100 / 57.  3.100
+
+[in#0 @ 0000026fff811000] Error opening input: No such file or directory
+
+Error opening input file uploads\uploads\audio.wav.
+
+Error opening input files: No such file or directory
+
+
+root - ERROR - Traceback (most recent call last):
+  File "X:\anaconda\envs\we\Lib\site-packages\whisper\audio.py", line 58, in load_audio
+    out = run(cmd, capture_output=True, check=True).stdout
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "X:\anaconda\envs\we\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['ffmpeg', '-nostdin', '-threads', '0', '-i', 'uploads\\uploads\\audio.wav', '-f', 's16le', '-ac', '1', '-acodec', 'pcm_s16le', '-ar', '16000', '-']' returned non-zero exit status 4294967294.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "Z:\PyCharmFire\webui\main.py", line 101, in api_stop_recording
+    transcribed_text, saved_path = transcribe_audio(audio_filename)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "Z:\PyCharmFire\webui\modules\stt.py", line 50, in transcribe_audio
+    result = model.transcribe(audio_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "X:\anaconda\envs\we\Lib\site-packages\whisper\transcribe.py", line 122, in transcribe
+    mel = log_mel_spectrogram(audio, model.dims.n_mels, padding=N_SAMPLES)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "X:\anaconda\envs\we\Lib\site-packages\whisper\audio.py", line 140, in log_mel_spectrogram
+    audio = load_audio(audio)
+            ^^^^^^^^^^^^^^^^^
+  File "X:\anaconda\envs\we\Lib\site-packages\whisper\audio.py", line 60, in load_audio
+    raise RuntimeError(f"Failed to load audio: {e.stderr.decode()}") from e
+RuntimeError: Failed to load audio: ffmpeg version 6.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2023 the FFmpeg developers
+
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+
+  libavutil      58. 29.100 / 58. 29.100
+
+  libavcodec     60. 31.102 / 60. 31.102
+
+  libavformat    60. 16.100 / 60. 16.100
+
+  libavdevice    60.  3.100 / 60.  3.100
+
+  libavfilter     9. 12.100 /  9. 12.100
+
+  libswscale      7.  5.100 /  7.  5.100
+
+  libswresample   4. 12.100 /  4. 12.100
+
+  libpostproc    57.  3.100 / 57.  3.100
+
+[in#0 @ 0000026fff811000] Error opening input: No such file or directory
+
+Error opening input file uploads\uploads\audio.wav.
+
+Error opening input files: No such file or directory
+
+
+
+root - ERROR - 处理音频文件时发生错误: Failed to load audio: ffmpeg version 6.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2023 the FFmpeg developers
+
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+
+  libavutil      58. 29.100 / 58. 29.100
+
+  libavcodec     60. 31.102 / 60. 31.102
+
+  libavformat    60. 16.100 / 60. 16.100
+
+  libavdevice    60.  3.100 / 60.  3.100
+
+  libavfilter     9. 12.100 /  9. 12.100
+
+  libswscale      7.  5.100 /  7.  5.100
+
+  libswresample   4. 12.100 /  4. 12.100
+
+  libpostproc    57.  3.100 / 57.  3.100
+
+[in#0 @ 00000194aed51000] Error opening input: No such file or directory
+
+Error opening input file uploads\uploads\audio.wav.
+
+Error opening input files: No such file or directory
+
+
+root - ERROR - Traceback (most recent call last):
+  File "X:\anaconda\envs\we\Lib\site-packages\whisper\audio.py", line 58, in load_audio
+    out = run(cmd, capture_output=True, check=True).stdout
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "X:\anaconda\envs\we\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['ffmpeg', '-nostdin', '-threads', '0', '-i', 'uploads\\uploads\\audio.wav', '-f', 's16le', '-ac', '1', '-acodec', 'pcm_s16le', '-ar', '16000', '-']' returned non-zero exit status 4294967294.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "Z:\PyCharmFire\webui\main.py", line 101, in api_stop_recording
+    transcribed_text, saved_path = transcribe_audio(audio_filename)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "Z:\PyCharmFire\webui\modules\stt.py", line 50, in transcribe_audio
+    result = model.transcribe(audio_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "X:\anaconda\envs\we\Lib\site-packages\whisper\transcribe.py", line 122, in transcribe
+    mel = log_mel_spectrogram(audio, model.dims.n_mels, padding=N_SAMPLES)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "X:\anaconda\envs\we\Lib\site-packages\whisper\audio.py", line 140, in log_mel_spectrogram
+    audio = load_audio(audio)
+            ^^^^^^^^^^^^^^^^^
+  File "X:\anaconda\envs\we\Lib\site-packages\whisper\audio.py", line 60, in load_audio
+    raise RuntimeError(f"Failed to load audio: {e.stderr.decode()}") from e
+RuntimeError: Failed to load audio: ffmpeg version 6.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2023 the FFmpeg developers
+
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+
+  libavutil      58. 29.100 / 58. 29.100
+
+  libavcodec     60. 31.102 / 60. 31.102
+
+  libavformat    60. 16.100 / 60. 16.100
+
+  libavdevice    60.  3.100 / 60.  3.100
+
+  libavfilter     9. 12.100 /  9. 12.100
+
+  libswscale      7.  5.100 /  7.  5.100
+
+  libswresample   4. 12.100 /  4. 12.100
+
+  libpostproc    57.  3.100 / 57.  3.100
+
+[in#0 @ 00000194aed51000] Error opening input: No such file or directory
+
+Error opening input file uploads\uploads\audio.wav.
+
+Error opening input files: No such file or directory
+
+
+
+root - ERROR - 转录错误: Failed to load audio: ffmpeg version 6.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2023 the FFmpeg developers
+
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+
+  libavutil      58. 29.100 / 58. 29.100
+
+  libavcodec     60. 31.102 / 60. 31.102
+
+  libavformat    60. 16.100 / 60. 16.100
+
+  libavdevice    60.  3.100 / 60.  3.100
+
+  libavfilter     9. 12.100 /  9. 12.100
+
+  libswscale      7.  5.100 /  7.  5.100
+
+  libswresample   4. 12.100 /  4. 12.100
+
+  libpostproc    57.  3.100 / 57.  3.100
+
+[in#0 @ 0000022d93841000] Error opening input: No such file or directory
+
+Error opening input file uploads\uploads\audio.wav.
+
+Error opening input files: No such file or directory
+
+
+root - ERROR - 处理音频文件时发生错误: save_file() missing 1 required positional argument: 'directory'
+root - ERROR - 文件保存错误: [Errno 2] No such file or directory: 'text\\uploads\\audio.txt'
+root - ERROR - 处理音频文件时发生错误: save_file() missing 1 required positional argument: 'directory'
+root - ERROR - 处理音频文件时发生错误: name 'files' is not defined
+root - ERROR - 转录错误: Failed to load audio: ffmpeg version 6.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2023 the FFmpeg developers
+
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+
+  libavutil      58. 29.100 / 58. 29.100
+
+  libavcodec     60. 31.102 / 60. 31.102
+
+  libavformat    60. 16.100 / 60. 16.100
+
+  libavdevice    60.  3.100 / 60.  3.100
+
+  libavfilter     9. 12.100 /  9. 12.100
+
+  libswscale      7.  5.100 /  7.  5.100
+
+  libswresample   4. 12.100 /  4. 12.100
+
+  libpostproc    57.  3.100 / 57.  3.100
+
+[in#0 @ 000002328fdf1000] Error opening input: No such file or directory
+
+Error opening input file uploads\uploads\audio.wav.
+
+Error opening input files: No such file or directory
+
+
+root - ERROR - 转录错误: Failed to load audio: ffmpeg version 6.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2023 the FFmpeg developers
+
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+
+  libavutil      58. 29.100 / 58. 29.100
+
+  libavcodec     60. 31.102 / 60. 31.102
+
+  libavformat    60. 16.100 / 60. 16.100
+
+  libavdevice    60.  3.100 / 60.  3.100
+
+  libavfilter     9. 12.100 /  9. 12.100
+
+  libswscale      7.  5.100 /  7.  5.100
+
+  libswresample   4. 12.100 /  4. 12.100
+
+  libpostproc    57.  3.100 / 57.  3.100
+
+[in#0 @ 0000016264581000] Error opening input: No such file or directory
+
+Error opening input file uploads\uploads\audio.wav.
+
+Error opening input files: No such file or directory
+
+
+root - ERROR - 转录错误: Failed to load audio: ffmpeg version 6.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2023 the FFmpeg developers
+
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+
+  libavutil      58. 29.100 / 58. 29.100
+
+  libavcodec     60. 31.102 / 60. 31.102
+
+  libavformat    60. 16.100 / 60. 16.100
+
+  libavdevice    60.  3.100 / 60.  3.100
+
+  libavfilter     9. 12.100 /  9. 12.100
+
+  libswscale      7.  5.100 /  7.  5.100
+
+  libswresample   4. 12.100 /  4. 12.100
+
+  libpostproc    57.  3.100 / 57.  3.100
+
+[in#0 @ 000001a8a21b1000] Error opening input: No such file or directory
+
+Error opening input file uploads\uploads\audio.wav.
+
+Error opening input files: No such file or directory
+------------root - ERROR - 转录错误: Failed to load audio: ffmpeg version 6.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2023 the FFmpeg developers
+
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+
+  libavutil      58. 29.100 / 58. 29.100
+
+  libavcodec     60. 31.102 / 60. 31.102
+
+  libavformat    60. 16.100 / 60. 16.100
+
+  libavdevice    60.  3.100 / 60.  3.100
+
+  libavfilter     9. 12.100 /  9. 12.100
+
+  libswscale      7.  5.100 /  7.  5.100
+
+  libswresample   4. 12.100 /  4. 12.100
+
+  libpostproc    57.  3.100 / 57.  3.100
+
+[in#0 @ 000001ed774f1080] Error opening input: No such file or directory
+
+Error opening input file Z:\PyCharmFire\webui\uploads\uploads\audio.wav.
+
+Error opening input files: No such file or directory
+------
+
+root - INFO - 音频转录成功，保存路径: text\audio.txt
+root - INFO - 音频转录成功，保存路径: text\audio.txt
+root - INFO - 音频转录成功，保存路径: text\audio.txt
+root - INFO - 音频转录成功，保存路径: text\audio.txt
+root - ERROR - 转录错误: 音频转录失败
+root - ERROR - 转录错误: 音频转录失败
+root - INFO - 音频转录成功，保存路径: text\audio.txt
+root - INFO - 音频转录成功，保存路径: text\audio.txt
+root - ERROR - 转录错误: 音频转录失败
+root - INFO - 音频转录成功，保存路径: text\audio.txt
+root - ERROR - 转录错误: 音频转录失败
+root - ERROR - 转录错误: 音频转录失败
+root - ERROR - 转录错误: 音频转录失败
+root - INFO - 音频转录成功，保存路径: text\audio.txt
+root - ERROR - 输入错误: 未上传文件
+root - INFO - 音频转录成功，保存路径: text\audio.txt
+root - INFO - 音频转录成功，保存路径: text\audio.txt
+root - INFO - 音频转录成功，保存路径: text\audio.txt
+root - ERROR - 转录错误: 音频转录失败
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - ERROR - Input error: 未上传文件
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - ERROR - Input error: 未上传有效的音频文件
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+root - INFO - Handling request to the main page
+httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+root - INFO - Handling request to the main page
+httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+root - INFO - 音频转录成功，保存路径: text\audio.txt
+root - INFO - 音频转录成功，保存路径: text\audio.txt
